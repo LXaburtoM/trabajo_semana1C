@@ -1,0 +1,14 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\bin\Debug\net9.0\notas_clases.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\bin\Debug\net9.0\notas_clases.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\bin\Debug\net9.0\notas_clases.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\bin\Debug\net9.0\notas_clases.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\bin\Debug\net9.0\notas_clases.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\refint\notas_clases.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\notas_clases.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\notas_clases\obj\Debug\net9.0\ref\notas_clases.dll

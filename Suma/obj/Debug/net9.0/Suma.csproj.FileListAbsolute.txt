@@ -1,0 +1,14 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\bin\Debug\net9.0\Suma.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\bin\Debug\net9.0\Suma.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\bin\Debug\net9.0\Suma.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\bin\Debug\net9.0\Suma.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\bin\Debug\net9.0\Suma.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\refint\Suma.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\Suma.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\Suma\obj\Debug\net9.0\ref\Suma.dll

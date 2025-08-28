@@ -1,0 +1,14 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\bin\Debug\net9.0\condicion1.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\bin\Debug\net9.0\condicion1.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\bin\Debug\net9.0\condicion1.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\bin\Debug\net9.0\condicion1.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\bin\Debug\net9.0\condicion1.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\refint\condicion1.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\condicion1.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\condicion1\obj\Debug\net9.0\ref\condicion1.dll

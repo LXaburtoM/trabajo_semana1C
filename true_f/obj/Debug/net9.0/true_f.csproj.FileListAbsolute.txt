@@ -1,0 +1,28 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\bin\Debug\net9.0\true_f.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\bin\Debug\net9.0\true_f.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\bin\Debug\net9.0\true_f.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\bin\Debug\net9.0\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\bin\Debug\net9.0\true_f.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\refint\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\true_f.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\true_f\obj\Debug\net9.0\ref\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\bin\Debug\net9.0\true_f.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\bin\Debug\net9.0\true_f.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\bin\Debug\net9.0\true_f.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\bin\Debug\net9.0\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\bin\Debug\net9.0\true_f.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\refint\true_f.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\true_f.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\true_f\obj\Debug\net9.0\ref\true_f.dll
