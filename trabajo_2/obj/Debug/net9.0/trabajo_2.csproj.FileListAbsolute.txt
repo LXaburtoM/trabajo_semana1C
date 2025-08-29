@@ -1,0 +1,15 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.AssemblyInfoInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.AssemblyInfo.cs
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.sourcelink.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\bin\Debug\net9.0\trabajo_2.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\bin\Debug\net9.0\trabajo_2.deps.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\bin\Debug\net9.0\trabajo_2.runtimeconfig.json
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\bin\Debug\net9.0\trabajo_2.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\bin\Debug\net9.0\trabajo_2.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\refint\trabajo_2.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\trabajo_2.genruntimeconfig.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\semana 1\trabajo_2\obj\Debug\net9.0\ref\trabajo_2.dll
